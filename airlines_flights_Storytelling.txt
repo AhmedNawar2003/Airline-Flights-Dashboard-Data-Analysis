@@ -1,0 +1,29 @@
+🌍 From Raw Flight Data to Actionable Insights – Airline Data Analysis Project ✈️
+
+In this project, I explored airline operations using a comprehensive dataset containing flight routes, ticket prices, stops, durations, and classes.
+
+🧹 Step 1 — Data Cleaning with Python:
+I started by cleaning and preparing the raw data — handling duplicates, missing values, and inconsistent entries.
+
+🧠 Step 2 — SQL for Deeper Insights:
+I used SQL to uncover key patterns such as the busiest routes, most profitable airlines, and performance by flight class.
+
+⚙️ Step 3 — Power BI for Storytelling:
+Using Power Query, I refined the data model and built an interactive Power BI dashboard to visualize:
+
+🛫 300K total flights and ₹6B total revenue
+
+💺 Business vs. Economy class performance ratio: 0.78
+
+📊 Top airlines like Vistara and Air India dominating revenue
+
+🕓 Flight patterns by time of day, showing morning peaks
+
+🗺️ Top routes such as Delhi–Mumbai leading the charts
+
+💰 Average ticket prices and stop-based price variations
+
+🎯 Impact:
+This project turns messy flight data into a clear performance overview — empowering airlines and agencies to optimize pricing, scheduling, and route strategy.
+
+✨ Tech Stack: Python | SQL | Power Query | Power BI
